@@ -12,7 +12,5 @@ print("\nMissing Values:")
 print(df.isnull().sum())
 
 print("\nStudents with Attendance below 70%:")
-
 low_attendance = df[df["attendance"] < 70]
-
 print(low_attendance)
