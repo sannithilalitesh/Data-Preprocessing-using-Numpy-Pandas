@@ -1,0 +1,11 @@
+ID,Age,Gender,Salary,Experience
+1,22,Male,30000,1
+2,25,Female,35000,2
+3,28,Male,40000,4
+4,30,Female,45000,5
+5,35,Male,50000,8
+6,40,Female,60000,10
+7,29,Male,42000,4
+8,31,Female,47000,6
+9,26,Male,38000,3
+10,38,Female,55000,9
