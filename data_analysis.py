@@ -28,5 +28,3 @@ grouped = df.groupby("gender")[[
     "average_score"
 ]].mean()
 
-print("\nAverage Marks Grouped by Gender:")
-print(grouped)
